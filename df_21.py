@@ -3,7 +3,7 @@ import random
 
 
 # import numpy as np
-# Katherine Grey, Lewis Alexander III, Cornelius Sekamatte
+#Sekacorn
 
 # Declare the necessary variables
 class DecisionFactory(object):
